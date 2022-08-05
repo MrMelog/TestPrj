@@ -1,0 +1,14 @@
+F:\Visual St\Render Prj\Render Prj\bin\Debug\Render Prj.exe.config
+F:\Visual St\Render Prj\Render Prj\bin\Debug\Render Prj.exe
+F:\Visual St\Render Prj\Render Prj\bin\Debug\Render Prj.pdb
+F:\Visual St\Render Prj\Render Prj\obj\Debug\Render Prj.csproj.AssemblyReference.cache
+F:\Visual St\Render Prj\Render Prj\obj\Debug\Render Prj.csproj.CoreCompileInputs.cache
+F:\Visual St\Render Prj\Render Prj\obj\Debug\Render Prj.exe
+F:\Visual St\Render Prj\Render Prj\obj\Debug\Render Prj.pdb
+F:\Repository\TestPrj\Render Prj\Render Prj\bin\Debug\Render Prj.exe.config
+F:\Repository\TestPrj\Render Prj\Render Prj\bin\Debug\Render Prj.exe
+F:\Repository\TestPrj\Render Prj\Render Prj\bin\Debug\Render Prj.pdb
+F:\Repository\TestPrj\Render Prj\Render Prj\obj\Debug\Render Prj.csproj.AssemblyReference.cache
+F:\Repository\TestPrj\Render Prj\Render Prj\obj\Debug\Render Prj.csproj.CoreCompileInputs.cache
+F:\Repository\TestPrj\Render Prj\Render Prj\obj\Debug\Render Prj.exe
+F:\Repository\TestPrj\Render Prj\Render Prj\obj\Debug\Render Prj.pdb
